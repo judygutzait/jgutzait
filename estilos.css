@@ -1,9 +1,10 @@
 
 body{
-    background-image: url("playa.png");
+   /* background-image: url("playa.png");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 330vh;
+    background-size: 330vh;*/
+background-color: #ECF5F9;
 }
 /*.foto{
 	background-image: url("playa.png");
@@ -369,5 +370,7 @@ ol > li:last-child {
 h6 {
   font-weight: normal;
   font-size: 14px;
-
+}
+.futi{
+  margin-top:300px;
 }
